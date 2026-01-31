@@ -156,4 +156,4 @@ python final_project_rnn.py
 
 ## ✨ Author
 
-**Project by:** Sathya Vetri
+**Project by:** Sathyapriya
